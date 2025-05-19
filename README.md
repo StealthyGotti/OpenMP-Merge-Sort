@@ -1,4 +1,4 @@
-# Parallel Merge Sort with OpenMP
+# University Project - Parallel Merge Sort with OpenMP
 
 ## Overview
 
